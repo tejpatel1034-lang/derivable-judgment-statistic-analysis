@@ -821,6 +821,6 @@ jupyter notebook
 
 ### Tej Patel
 
-** Derivable judgment Statistical Analysis & Data Analytics Project**
+**Derivable judgment Statistical Analysis & Data Analytics Project**
 
 ---
