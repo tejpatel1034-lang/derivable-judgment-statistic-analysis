@@ -29,7 +29,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | **Tej Patel** | `health_records.csv` | **1,000** | **15** | **Python** |
 
-[▶ Watch Project Presentation](https://drive.google.com/file/d/1et9Y9jBGedU96IutjZDhjB0n5xIrH8N8/view?usp=sharing) · [📘 Statistical Theory (PDF)](Documentation/Derivable_Judgment_Rough_Work.pdf) · [📓 Notebook]("Notebooks/Derivable_judgment.ipynb")
+[▶ Watch Project Presentation](https://drive.google.com/file/d/1et9Y9jBGedU96IutjZDhjB0n5xIrH8N8/view?usp=sharing) · [📘 Statistical Theory (PDF)](Documentation/Derivable_Judgment_Rough_Work.pdf.pdf) · [📓 Notebook](Notebooks/Derivable_judgment.ipynb)
 
 </div>
 
@@ -628,7 +628,7 @@ THEORY → Hypothesis → Mathematical Formula → Python Implementation
 
 ## 📝 Rough Work / Theory Report
 
-The repository includes handwritten/rough theoretical work in [`Documentation/Derivable_Judgment_Rough_Work.pdf`]("Documentation/Derivable_Judgment_Rough_Work.pdf"). It serves as the **theoretical foundation** behind the practical notebook and covers:
+The repository includes handwritten/rough theoretical work in [`Documentation/Derivable_Judgment_Rough_Work.pdf`](Documentation/Derivable_Judgment_Rough_Work.pdf.pdf). It serves as the **theoretical foundation** behind the practical notebook and covers:
 
 - Inferential statistics
 - Hypothesis testing
