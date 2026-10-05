@@ -29,7 +29,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | **Tej Patel** | `health_records.csv` | **1,000** | **15** | **Python** |
 
-[▶ Watch Project Presentation](https://drive.google.com/file/d/1et9Y9jBGedU96IutjZDhjB0n5xIrH8N8/view?usp=sharing) · [📘 Statistical Theory (PDF)](reports/Statistical_Theory.pdf) · [📓 Notebook](notebooks/statistical_analysis.ipynb)
+[▶ Watch Project Presentation](https://drive.google.com/file/d/1et9Y9jBGedU96IutjZDhjB0n5xIrH8N8/view?usp=sharing) · [📘 Statistical Theory (PDF)](Documentation/Derivable_Judgment_Rough_Work.pdf) · [📓 Notebook]("Notebooks\Derivable_judgment.ipynb")
 
 </div>
 
@@ -577,21 +577,17 @@ All tests are evaluated at **α = 0.05**.
 <tr>
 <td align="center" width="50%">
 <b>Age Group vs Diabetes</b><br><br>
-<img src="visualizations/age_group_diabetes.png" alt="Age Group vs Diabetes" width="100%">
+<img src="Charts/Age_group_diabetes.png" alt="Age Group vs Diabetes" width="100%">
 </td>
 <td align="center" width="50%">
 <b>Smoking Status vs Diabetes</b><br><br>
-<img src="visualizations/smoking_diabetes.png" alt="Smoking Status vs Diabetes" width="100%">
+<img src="Charts/Smoking_diabetes.png" alt="Smoking Status vs Diabetes" width="100%">
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<b>Confidence Intervals</b><br><br>
-<img src="visualizations/confidence_intervals.png" alt="Confidence Intervals" width="100%">
-</td>
-<td align="center" width="50%">
 <b>Correlation Heatmap</b><br><br>
-<img src="visualizations/correlation_heatmap.png" alt="Correlation Heatmap" width="100%">
+<img src="Charts/Correlation_heatmap.png" alt="Correlation Heatmap" width="100%">
 </td>
 </tr>
 </table>
@@ -632,7 +628,7 @@ THEORY → Hypothesis → Mathematical Formula → Python Implementation
 
 ## 📝 Rough Work / Theory Report
 
-The repository includes handwritten/rough theoretical work in [`reports/Statistical_Theory.pdf`](reports/Statistical_Theory.pdf). It serves as the **theoretical foundation** behind the practical notebook and covers:
+The repository includes handwritten/rough theoretical work in [`Documentation/Derivable_Judgment_Rough_Work.pdf`]("Documentation/Derivable_Judgment_Rough_Work.pdf"). It serves as the **theoretical foundation** behind the practical notebook and covers:
 
 - Inferential statistics
 - Hypothesis testing
@@ -781,7 +777,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-**Running the analysis:** open `notebooks/statistical_analysis.ipynb` and choose **Kernel → Restart & Run All** (or run the cells in order). The notebook reads `data/health_records.csv` and regenerates all statistics and figures.
+**Running the analysis:** open `Notebooks/Derivable_judgment.ipynb` and choose **Kernel → Restart & Run All** (or run the cells in order). The notebook reads `data/health_records.csv` and regenerates all statistics and figures.
 
 ---
 
@@ -825,9 +821,7 @@ jupyter notebook
 
 ### Tej Patel
 
-**Statistical Analysis & Data Analytics Project**
-
-> *"Built to demonstrate how statistical theory, computational analysis, and evidence-based reasoning can transform raw health data into defensible analytical judgments."*
+** Derivable judgment Statistical Analysis & Data Analytics Project**
 
 ---
 
