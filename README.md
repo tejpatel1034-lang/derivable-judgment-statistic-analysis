@@ -29,7 +29,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | **Tej Patel** | `health_records.csv` | **1,000** | **15** | **Python** |
 
-[▶ Watch Project Presentation](https://drive.google.com/file/d/1et9Y9jBGedU96IutjZDhjB0n5xIrH8N8/view?usp=sharing) · [📘 Statistical Theory (PDF)](Documentation/Derivable_Judgment_Rough_Work.pdf) · [📓 Notebook]("Notebooks\Derivable_judgment.ipynb")
+[▶ Watch Project Presentation](https://drive.google.com/file/d/1et9Y9jBGedU96IutjZDhjB0n5xIrH8N8/view?usp=sharing) · [📘 Statistical Theory (PDF)](Documentation/Derivable_Judgment_Rough_Work.pdf) · [📓 Notebook]("Notebooks/Derivable_judgment.ipynb")
 
 </div>
 
@@ -824,11 +824,3 @@ jupyter notebook
 ** Derivable judgment Statistical Analysis & Data Analytics Project**
 
 ---
-
-<div align="center">
-
-**DERIVABLE JUDGMENT** · Statistical Decision-Making Model for Health & Disease Risk Analysis
-
-<sub>⚠️ Educational and analytical project. Not intended for medical diagnosis or clinical decision-making.</sub>
-
-</div>
