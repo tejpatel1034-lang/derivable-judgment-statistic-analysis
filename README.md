@@ -2,7 +2,7 @@
 
 # 🧠 DERIVABLE JUDGMENT
 
-### Statistical Decision-Making Model for Health & Disease Risk Analysis
+### Statistical Decision-Making for Health & Disease Analysis
 
 > **Turning health records into statistically defensible decisions.**
 
@@ -821,6 +821,6 @@ jupyter notebook
 
 ### Tej Patel
 
-**Derivable judgment Statistical Analysis & Data Analytics Project**
+**Derivable judgment Statistical Analysis**
 
 ---
